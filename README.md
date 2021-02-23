@@ -16,7 +16,8 @@ Python versions 3.*.
 - matplotlib.
 - seaborn.
 - Plotly.
-
+- chart_studio.
+- pycountry_convert
 <a id='Project Motivation'></a>
 # Project Motivation:
 Is to study and understand the Impact of the Covid-19 Pandemic on the Global Economy, and how it has changed throughout one year. To better guide the analysis I formed the following questions:
@@ -34,6 +35,7 @@ The main findings of the code can be found as a Data Science blog post in [Mediu
 <a id='Licensing, Authors, and Acknowledgements'></a>
 # Licensing, Authors, and Acknowledgements:
 This project (Capstone Project) is part of [Codig Dojo and SDA’s Data Scientist Bootcamp program](https://www.codingdojo.com/)
+
 
 <a id='Resources'></a>
 - [THE IMPACT OF COVID-19 PANDEMIC ON THE GLOBAL ECONOMY.](http://www.conscientiabeam.com/pdf-files/eco/29/EFL20218(1)32-43.pdf)
