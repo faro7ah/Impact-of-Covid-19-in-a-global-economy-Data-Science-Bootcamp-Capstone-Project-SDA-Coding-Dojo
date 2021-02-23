@@ -36,7 +36,7 @@ The main findings of the code can be found as a Data Science blog post in [Mediu
 # Licensing, Authors, and Acknowledgements:
 This project (Capstone Project) is part of [Codig Dojo and SDA’s Data Scientist Bootcamp program](https://www.codingdojo.com/)
 
-
+# Resources: 
 <a id='Resources'></a>
 - [THE IMPACT OF COVID-19 PANDEMIC ON THE GLOBAL ECONOMY.](http://www.conscientiabeam.com/pdf-files/eco/29/EFL20218(1)32-43.pdf)
 
