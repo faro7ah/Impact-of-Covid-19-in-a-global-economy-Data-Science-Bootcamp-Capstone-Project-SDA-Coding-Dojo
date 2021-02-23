@@ -22,11 +22,11 @@ Python versions 3.*.
 # Project Motivation:
 Is to study and understand the Impact of the Covid-19 Pandemic on the Global Economy, and how it has changed throughout one year. To better guide the analysis I formed the following questions:
 
-- What is the total rate of the human development index, total cases, total deaths, stringency index, and GDP per capita?
-- What is the top 50 countries according to the GDP per capita?
-- What Is the rate of total deaths and total cases under this global pandemic?
-- What is the Relationship Between GDP Per Capita And Human Development Index For Each Country Under Covid-19?
-- What is the rate of stringency index With the world average GDP per capita?
+- What Is The Total Rate Of The Human Development Index, Total cases, Total deaths, Stringency Index, And GDP Per Capita?
+- What Is The Top 50 Countries According To The GDP Per Capita?
+- What Is The Rate Of Total Deaths And Total Cases Under This Global Pandemic?
+- What Is The Relationship Between GDP Per Capita And Human Development Index For Each Country Under Covid-19?
+- What Is The Rate Of Stringency Index And GDP Per Capita According to Each Country?
 
 <a id='Results'></a>
 # Results:
