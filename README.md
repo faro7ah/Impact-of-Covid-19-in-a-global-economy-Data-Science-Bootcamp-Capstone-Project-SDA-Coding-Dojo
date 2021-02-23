@@ -3,7 +3,7 @@
 <li><a href="#Project Motivation">Project Motivation</a></li>
 <li><a href="#Results">Results</a></li>
 <li><a href="#Licensing, Authors, and Acknowledgements">Licensing, Authors, and Acknowledgements</a></li>
-<li><a href="#Resources"></a>Resources</li>
+<li><a href="#Resources">Resources</a></li>
 
 
 <a id='Installation'></a>
