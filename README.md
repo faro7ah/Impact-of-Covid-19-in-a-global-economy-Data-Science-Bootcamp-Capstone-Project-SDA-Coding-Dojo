@@ -31,11 +31,11 @@ Is to study and understand the Impact of the Covid-19 Pandemic on the Global Eco
 
 <a id='Results'></a>
 # Results:
-[<img width="400" height="300" src="country.jpg">]()
+[<img width="500" height="400" src="country.jpg">]()
 
-[<img width="400" height="300" src="total_C.jpg">]()
+[<img width="500" height="400" src="total_C.jpg">]()
 
-[<img width="400" height="300" src="map.jpg">]()
+[<img width="500" height="400" src="map.jpg">]()
 
 
 
