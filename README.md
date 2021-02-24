@@ -50,7 +50,7 @@ Is to study and understand the Impact of the Covid-19 on GDP per Capita in the G
 
 <a id='Summary'></a>
 # Summary
-[One Page Summary]()
+[One Page Summary](https://github.com/faro7ah/Impact-of-Covid-19-in-a-global-economy-Data-Science-Bootcamp-Capstone-Project-SDA-Coding-Dojo/blob/main/Poster.pdf)
 
 <a id='Licensing, Authors, and Acknowledgements'></a>
 # Licensing, Authors, and Acknowledgements:
