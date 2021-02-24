@@ -47,7 +47,7 @@ The main findings of the code can be found as a Data Science blog post in [Mediu
 
 <a id='Licensing, Authors, and Acknowledgements'></a>
 # Licensing, Authors, and Acknowledgements:
-This project (Capstone Project) is part of [Codig Dojo and SDA’s Data Scientist Bootcamp program](https://www.codingdojo.com/)
+> This project (Capstone Project) is part of [Codig Dojo and SDA’s Data Scientist Bootcamp program](https://www.codingdojo.com/)
 
 # Resources: 
 <a id='Resources'></a>
