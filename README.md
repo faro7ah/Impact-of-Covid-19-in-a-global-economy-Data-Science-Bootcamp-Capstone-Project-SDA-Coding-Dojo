@@ -31,6 +31,7 @@ Is to study and understand the Impact of the Covid-19 Pandemic on the Global Eco
 
 <a id='Results'></a>
 # Results:
+> The interactive charts in the post are created using Plotly, feel free to interact with data.
 [<img width="500" height="400" src="country.jpg">]()
 
 [<img width="500" height="400" src="total_C.jpg">]()
