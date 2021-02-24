@@ -27,21 +27,21 @@ Is to study and understand the Impact of the Covid-19 on GDP per Capita in the G
 - What is the top 50 countries according to the GDP per capita?
 - What Is the rate of total deaths and total cases under this global pandemic?
 - What is the Relationship Between GDP Per Capita And Human Development Index For Each Country Under Covid-19?
-- What is the rate of stringency index With the world average GDP per capita?
+-  What is The Rate Of Stringency Index and GDP per capita According to Each Country?
 
 <a id='Results'></a>
 # Results:
 > The interactive charts in the post are created using Plotly, feel free to interact with data.
 
+[<img width="600" height="400" src="newplot (2).png">]()
 
 [<img width="600" height="400" src="newplot (1).png">]()
 
+[<img width="600" height="400" src="newplot (4).png">]()
 
-[<img width="600" height="400" src="newplot (2).png">]()
 
 [<img width="600" height="400" src="newplot (3).png">]()
 
-[<img width="600" height="400" src="newplot (4).png">]()
 
 
 
