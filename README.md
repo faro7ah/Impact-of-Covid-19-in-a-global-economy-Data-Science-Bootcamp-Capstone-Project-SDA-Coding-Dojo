@@ -21,7 +21,7 @@ Libraries:
 - pycountry_convert
 <a id='Project Motivation'></a>
 # Project Motivation:
-Is to study and understand the Impact of the Covid-19 Pandemic on the Global Economy, and how it has changed throughout one year. To better guide the analysis I formed the following questions:
+Is to study and understand the Impact of the Covid-19 on GDP per Capita in the Global Economy, and how it has changed throughout one year. To better guide the analysis I formed the following questions:
 
 - What is the total rate of the human development index, total cases, total deaths, stringency index, and GDP per capita?
 - What is the top 50 countries according to the GDP per capita?
@@ -34,12 +34,12 @@ Is to study and understand the Impact of the Covid-19 Pandemic on the Global Eco
 > The interactive charts in the post are created using Plotly, feel free to interact with data.
 
 
-[<img width="500" height="400" src="country.jpg">]()
+[<img width="600" height="400" src="newplot (1).jpg">]()
 
 
-[<img width="500" height="400" src="map.jpg">]()
+[<img width="600" height="400" src="newplot (2).jpg">]()
 
-[<img width="500" height="400" src="heatmap.jpg">]()
+[<img width="600" height="400" src="newplot (3).jpg">]()
 
 
 
