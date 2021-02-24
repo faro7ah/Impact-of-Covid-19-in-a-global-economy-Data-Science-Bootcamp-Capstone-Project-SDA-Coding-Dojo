@@ -46,7 +46,7 @@ Is to study and understand the Impact of the Covid-19 on GDP per Capita in the G
 
 
 
-## The main findings of the code can be found as a Data Science blog post in [Medium]()
+## The main findings of the code can be found as a Data Science blog post in [Medium](https://farah-sidina.medium.com/does-the-global-economy-affect-by-the-covid-19-pandemic-ca98e323e70c)
 
 <a id='Summary'></a>
 # Summary
