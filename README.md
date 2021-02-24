@@ -39,7 +39,7 @@ Is to study and understand the Impact of the Covid-19 Pandemic on the Global Eco
 
 
 
-The main findings of the code can be found as a Data Science blog post in [Medium]()
+## The main findings of the code can be found as a Data Science blog post in [Medium]()
 
 <a id='Summary'></a>
 # Summary
