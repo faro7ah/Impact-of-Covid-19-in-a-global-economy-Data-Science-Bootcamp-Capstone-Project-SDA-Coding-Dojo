@@ -33,14 +33,14 @@ Is to study and understand the Impact of the Covid-19 on GDP per Capita in the G
 # Results:
 > The interactive charts in the post are created using Plotly, feel free to interact with data.
 
-[<img width="600" height="400" src="image/newplot (2).png">]()
+[<img width="600" height="400" src="Image/newplot (2).png">]()
 
-[<img width="600" height="400" src="image/newplot (1).png">]()
+[<img width="600" height="400" src="Image/newplot (1).png">]()
 
-[<img width="600" height="400" src="image/newplot (4).png">]()
+[<img width="600" height="400" src="Image/newplot (4).png">]()
 
 
-[<img width="600" height="400" src="image/newplot (3).png">]()
+[<img width="600" height="400" src="Image/newplot (3).png">]()
 
 
 
