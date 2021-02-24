@@ -2,6 +2,7 @@
 <li><a href="#Installation">Installation</a></li>
 <li><a href="#Project Motivation">Project Motivation</a></li>
 <li><a href="#Results">Results</a></li>
+<li><a href="#Summary">Summary</a></li>
 <li><a href="#Licensing, Authors, and Acknowledgements">Licensing, Authors, and Acknowledgements</a></li>
 <li><a href="#Resources">Resources</a></li>
 
@@ -9,7 +10,7 @@
 <a id='Installation'></a>
 # Installation:
 Python versions 3.*.
-- Libraries:
+Libraries:
 - Pandas.
 - Scikit-learn.
 - numpy.
@@ -30,8 +31,19 @@ Is to study and understand the Impact of the Covid-19 Pandemic on the Global Eco
 
 <a id='Results'></a>
 # Results:
+[<img width="600" height="500" src="country.jpg">]()
+
+[<img width="600" height="500" src="total_C.jpg">]()
+
+[<img width="600" height="500" src="map.jpg">]()
+
+
+
 The main findings of the code can be found as a Data Science blog post in [Medium]()
 
+<a id='Summary'></a>
+# Summary
+[One Page Summary]()
 
 <a id='Licensing, Authors, and Acknowledgements'></a>
 # Licensing, Authors, and Acknowledgements:
