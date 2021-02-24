@@ -39,7 +39,6 @@ Is to study and understand the Impact of the Covid-19 on GDP per Capita in the G
 
 [<img width="600" height="400" src="Image/newplot (4).png">](https://chart-studio.plotly.com/create/?fid=farah12:25#/)
 
-
 [<img width="600" height="400" src="Image/newplot (3).png">](https://chart-studio.plotly.com/create/?fid=farah12:33#/)
 
 
